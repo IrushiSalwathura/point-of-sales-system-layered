@@ -19,11 +19,12 @@ The project is created with:
 * Jasper Reports
 
 ## Screenshots
-![][1]
----
-![][2]
----
-![][3]
+- **Main Interface**
+>![][1]
+>---
+>![][2]
+- **Place Order Interface**
+>![][3]
 
 [1]: https://github.com/IrushiSalwathura/point-of-sales-system-layered/blob/master/src/asset/screenshots/pos-main.png
 [2]: https://github.com/IrushiSalwathura/point-of-sales-system-layered/blob/master/src/asset/screenshots/pos-main-customer.png
