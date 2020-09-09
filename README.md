@@ -20,7 +20,9 @@ The project is created with:
 
 ## Screenshots
 ![][1]
+---
 ![][2]
+---
 ![][3]
 
 [1]: https://github.com/IrushiSalwathura/point-of-sales-system-layered/blob/master/src/asset/screenshots/pos-main.png
