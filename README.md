@@ -7,7 +7,7 @@ This POS System is revamped according the Layered Architecture in order to loose
 > - Either fork or download the repository using the URL <https://github.com/IrushiSalwathura/point-of-sales-system-layered.git>
 > - Then add the dependencies provided in the lib/ folder to the project structure.
 
-## Tech/framework used
+## Tech/Framework Used
 
 The project is created with:
 * Java FX
@@ -19,13 +19,13 @@ The project is created with:
 * Jasper Reports
 
 ## Screenshots
+![][1]
+![][2]
+![][3]
 
-![MainInterface]
-(https://github.com/IrushiSalwathura/point-of-sales-system-layered/blob/master/src/asset/screenshots/pos-main.png)
-![]
-(https://github.com/IrushiSalwathura/point-of-sales-system-layered/blob/master/src/asset/screenshots/pos-main-customer.png)
-![PlaceOrderForm] 
-(https://github.com/IrushiSalwathura/point-of-sales-system-layered/blob/master/src/asset/screenshots/pos-placeorder.png)
+[1]: https://github.com/IrushiSalwathura/point-of-sales-system-layered/blob/master/src/asset/screenshots/pos-main.png
+[2]: https://github.com/IrushiSalwathura/point-of-sales-system-layered/blob/master/src/asset/screenshots/pos-main-customer.png
+[3]: https://github.com/IrushiSalwathura/point-of-sales-system-layered/blob/master/src/asset/screenshots/pos-placeorder.png
 
 
 ## License
