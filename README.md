@@ -5,6 +5,7 @@ This POS System is revamped according the Layered Architecture in order to loose
 ## Setup
 
 > - Either fork or download the repository using the URL <https://github.com/IrushiSalwathura/point-of-sales-system-layered.git>
+> - To fork use the command git clone https://github.com/IrushiSalwathura/point-of-sales-system-layered.git
 > - Then add the dependencies provided in the lib/ folder to the project structure.
 
 ## Tech/Framework Used

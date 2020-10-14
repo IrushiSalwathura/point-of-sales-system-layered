@@ -19,8 +19,8 @@
         <columns>
           <TableColumn prefWidth="75.0" text="OrderID" />
           <TableColumn prefWidth="111.0" text="Order Date" />
-            <TableColumn prefWidth="100.0" text="Cust ID" />
-            <TableColumn prefWidth="146.6666259765625" text="Cust Name" />
+            <TableColumn prefWidth="100.0" text="Customer ID" />
+            <TableColumn prefWidth="146.6666259765625" text="Customer Name" />
             <TableColumn prefWidth="99.66668701171875" text="Total" />
         </columns>
       </TableView>
